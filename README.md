@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Sou o Alex, Apaixonado em tecnologia, IA, Python e começando em analise de dados
+## Sou o Alex, Apaixonado em tecnologia, IA, Python e começando em análise de dados
 
 <!--
 **alexsuzart/AlexSuzart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
